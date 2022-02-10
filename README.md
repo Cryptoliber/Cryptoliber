@@ -3,7 +3,7 @@ Witaj!</br></br>
 ꧂   Nazywam się Julia. Mam 21 lat.</br>
 ꧂Swoją przygode z podstawowym kodowaniem </br>
 ꧂zaczynałam w wieku 11 lat i była to nauka metodą </br>
-꧂"prób i błedów" oraz przerabianie kodów innych </br>
+꧂"prób i błędów" oraz przerabianie kodów innych </br>
 ꧂pod własne cele. Z czasem jednak zaczęłam tworzyć własne kody</br>
 ꧂(tworzyliśmy wówczas kilka dobrze prosperujących for PBF). </br>
 ꧂Nowe fora teraz ciężko się wyłaniają na powierzchnie,</br>
