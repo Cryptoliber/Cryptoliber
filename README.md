@@ -1,6 +1,6 @@
 ### Hi there 👋
 Witaj!</br></br>
-<font size="4">꧂ Nazywam się Julia. ꧂</br>
+<font size="h4">꧂ Nazywam się Julia. ꧂</br>
 ꧂Swoją przygode z podstawowym kodowaniem ꧂</br>
 ꧂zaczynałam w wieku 11 lat i była to nauka metodą ꧂</br>
 ꧂"prób i błedów" oraz przerabiania kodów innych ꧂</br>
