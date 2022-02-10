@@ -1,15 +1,20 @@
 ### Hi there 👋
+<i>PL>></i></br>
 Witaj!</br></br>
-<font size="h4">꧂ Nazywam się Julia. ꧂</br>
-꧂Swoją przygode z podstawowym kodowaniem ꧂</br>
-꧂zaczynałam w wieku 11 lat i była to nauka metodą ꧂</br>
-꧂"prób i błedów" oraz przerabiania kodów innych ꧂</br>
-꧂pod własne cele (tworzyliśmy wówczas kilka ꧂</br>
-꧂dobrze prosperujących for PBF). ꧂</br></font>
+꧂   Nazywam się Julia. Mam 21 lat.</br>
+꧂Swoją przygode z podstawowym kodowaniem </br>
+꧂zaczynałam w wieku 11 lat i była to nauka metodą </br>
+꧂"prób i błedów" oraz przerabianie kodów innych </br>
+꧂pod własne cele. Z czasem jednak zaczęłam tworzyć własne kody</br>
+꧂(tworzyliśmy wówczas kilka dobrze prosperujących for PBF). </br>
+꧂Nowe fora teraz ciężko się wyłaniają na powierzchnie,</br>
+꧂pokusiłabym nawet się o stwierdzenie, że jeśli </br>
+꧂nie zaczynacie z gronem znajomych, ono nie ma racji bytu.</br>
+꧂Ale jeśli mi dane, kiedyś jeszcze jakieś z kimś stworzę, bo... lubię :)</br>
 </br>
-Nie mam wielkiej wiedzy, </br>
+Nie mam dużej wiedzy, </br>
 nie posiadam też nadzwyczajnych umiejętności. </br>
-<u>Zajmuję się ciekawym wykorzystywaniem podstaw.</u>
+<u><b>Zajmuję się ciekawym wykorzystywaniem podstaw.</b></u>
 
 𖥸<b> Umiejętności: </b>𖥸
 </br><i>
