@@ -1,20 +1,28 @@
 ### Hi there 👋
 Witaj!
-Nazywam się Julia. Swoją przygode z podstawowym kodowaniem zaczynałam w wieku 11 lat i była to nauka metodą "prób i błedów" oraz przerabiania kodów innych pod własne cele (tworzyliśmy wówczas kilka dobrze prosperujących for PBF).
-Nie mam wielkiej wiedzy, nie posiadam też nadzwyczajnych umiejętności. Zajmuję się ciekawym wykorzystywaniem podstaw.
+꧂ Nazywam się Julia. ꧂</br>
+꧂Swoją przygode z podstawowym kodowaniem ꧂</br>
+꧂zaczynałam w wieku 11 lat i była to nauka metodą ꧂</br>
+꧂"prób i błedów" oraz przerabiania kodów innych ꧂</br>
+꧂pod własne cele (tworzyliśmy wówczas kilka ꧂</br>
+꧂dobrze prosperujących for PBF). ꧂</br>
+</br>
+Nie mam wielkiej wiedzy, </br>
+nie posiadam też nadzwyczajnych umiejętności. </br>
+<u>Zajmuję się ciekawym wykorzystywaniem podstaw.</u>
 
-<b>Umiejętności:</b>
+𖥸<b> Umiejętności: </b>𖥸
 </br><i>
-</br>☛HTML
-</br>☛CSS
-</br>☛JavaScript
-</br>☛PHP
-</br>☛(Batch Files, CMD)
-</br>☛Tworzenie dla fun'u stron i for internetowych</i>
+</br>➥ HTML
+</br>➥ CSS
+</br>➥ JavaScript
+</br>➥ PHP
+</br>➥ (Batch Files, CMD)
+</br>➥ Tworzenie dla fun'u stron i for internetowych</i>
+</br>
+</br>Tu możesz kupić mi kawę ❤ ☛ https://buycoffee.to/mef
 </br>
 </br>Pozdrawiam ^-^
-</br>
-</br>Tu możesz kupić mi kawę ☛ https://buycoffee.to/mef
 <!--
 **Cryptoliber/Cryptoliber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
