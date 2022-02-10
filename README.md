@@ -1,5 +1,4 @@
-### Hi there 👋
-<i>PL>></i></br>
+👋
 Witaj!</br></br>
 ꧂   Nazywam się Julia. Mam 21 lat.</br>
 ꧂Swoją przygode z podstawowym kodowaniem </br>
@@ -15,7 +14,7 @@ Witaj!</br></br>
 Nie mam dużej wiedzy, </br>
 nie posiadam też nadzwyczajnych umiejętności. </br>
 <u><b>Zajmuję się ciekawym wykorzystywaniem podstaw.</b></u>
-
+</br>
 𖥸<b> Umiejętności: </b>𖥸
 </br><i>
 </br>➥ HTML
