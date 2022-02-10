@@ -4,17 +4,17 @@ Nazywam się Julia. Swoją przygode z podstawowym kodowaniem zaczynałam w wieku
 Nie mam wielkiej wiedzy, nie posiadam też nadzwyczajnych umiejętności. Zajmuję się ciekawym wykorzystywaniem podstaw.
 
 <b>Umiejętności:</b>
-<i>
-HTML
-CSS
-JavaScript
-PHP
-(Batch Files, CMD)
-Tworzenie dla fun'u stron i for internetowych</i>
-
-Pozdrawiam ^-^
-
-Tu możesz mi kupić kawę >> https://buycoffee.to/mef
+</br><i>
+</br>☛HTML
+</br>☛CSS
+</br>☛JavaScript
+</br>☛PHP
+</br>☛(Batch Files, CMD)
+</br>☛Tworzenie dla fun'u stron i for internetowych</i>
+</br>
+</br>Pozdrawiam ^-^
+</br>
+</br>Tu możesz kupić mi kawę ☛ https://buycoffee.to/mef
 <!--
 **Cryptoliber/Cryptoliber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
