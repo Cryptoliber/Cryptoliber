@@ -1,11 +1,11 @@
 ### Hi there 👋
-Witaj!
-꧂ Nazywam się Julia. ꧂</br>
+Witaj!</br></br>
+<font size="10px:>꧂ Nazywam się Julia. ꧂</br>
 ꧂Swoją przygode z podstawowym kodowaniem ꧂</br>
 ꧂zaczynałam w wieku 11 lat i była to nauka metodą ꧂</br>
 ꧂"prób i błedów" oraz przerabiania kodów innych ꧂</br>
 ꧂pod własne cele (tworzyliśmy wówczas kilka ꧂</br>
-꧂dobrze prosperujących for PBF). ꧂</br>
+꧂dobrze prosperujących for PBF). ꧂</br></font>
 </br>
 Nie mam wielkiej wiedzy, </br>
 nie posiadam też nadzwyczajnych umiejętności. </br>
