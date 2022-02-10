@@ -1,5 +1,16 @@
 ### Hi there 👋
+Witaj!
+Nazywam się Julia. Swoją przygode z podtsawowym kodem zaczynałam w wieku 13 lat i była to nauka metodą "prób i błedów".
+Nie mam wielkiej wiedzy, nie posiadam też nadzwyczajnych umiejętności. Zajmuję się ciekawym wykorzystywaniem podstaw.
 
+<b>Umiejętności:</b>
+<i>
+HTML
+CSS
+JavaScript
+PHP
+(Batch Files, CMD)
+Tworzenie dla fun'u stron i for internetowych</i>
 <!--
 **Cryptoliber/Cryptoliber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
