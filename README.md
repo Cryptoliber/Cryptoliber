@@ -10,7 +10,7 @@ Witaj!</br></br>
 ꧂pokusiłabym nawet się o stwierdzenie, że jeśli </br>
 ꧂nie zaczynacie z gronem znajomych, ono nie ma racji bytu.</br>
 ꧂Ale jeśli mi dane, kiedyś jeszcze jakieś z kimś stworzę, bo... lubię :)</br>
-Także jeśli masz na to ochotę - pisz śmiało</br>
+Także jeśli masz na to ochotę - pisz śmiało</br> (raus@int.pl)
 </br>
 Nie mam dużej wiedzy, </br>
 nie posiadam też nadzwyczajnych umiejętności. </br>
